@@ -1,0 +1,43 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-55-3 11:7:2",
+  "loopSlideshow" : 0,
+  "filename" : "M7_Konzepte.key",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "M7_Konzepte.key",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0",
+  "slideList" : [
+    "FCAE6EA7-47A1-4C14-AFD9-DCFF8E2333F5",
+    "38789930-8C10-4B16-B335-F223220489CE",
+    "17A2A9A1-4548-45E3-BA46-F85AD769D119",
+    "FADCBD72-5AF3-489E-9705-5444FAD5C9C7",
+    "E09AC916-3990-497B-ACBF-F814ACDA2925",
+    "7255575C-4B5C-4F8F-A4A5-811519829111",
+    "0AD728DA-EEC4-43DD-B132-8DB4D13C4929",
+    "DCD93043-4C4F-4C3B-8A80-39A2EBB5B5E0",
+    "507C8F7C-7CFD-4A16-98AA-0A776830814F",
+    "D41EB435-F2DD-4F4F-AD74-181C68B9FD36",
+    "C403843D-2084-46C4-90A9-08689BFC933B"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1920,
+  "slideHeight" : 1080,
+  "slideCount" : 11,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "AvenirNext-Medium",
+    "GillSans",
+    "AvenirNext-DemiBold",
+    "DINCondensed-Bold",
+    "DINAlternate-Bold",
+    "HelveticaNeue",
+    "Helvetica"
+  ]
+} )
